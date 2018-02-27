@@ -7,25 +7,6 @@
 
 
 
-
-
-Tooling...
-  Review how VS Code handles TS now
-    Sounds like you need to install the compiler yourself now
-    Run through the difference between files vs projects
-    Run through setting up task bindings
-
-VS Code tooling
-  IntelliSense
-  Renaming
-  References
-  Auto imports
-  CodeLens (needs to be enabled)
-
-
-
-
-
 Attempt to add in more Dr Strangelove references
   Just incorporate some more of the iconic images???
 
