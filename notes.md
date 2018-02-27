@@ -7,18 +7,21 @@
 
 
 
+
+
 Tooling...
   Review how VS Code handles TS now
-  Is it easier to create TS projects???
-  Changes to how the task bindings work???
+    Sounds like you need to install the compiler yourself now
+    Run through the difference between files vs projects
+    Run through setting up task bindings
 
+VS Code tooling
+  IntelliSense
+  Renaming
+  References
+  Auto imports
+  CodeLens (needs to be enabled)
 
-
-
-
-Update (or remove?) Flow and TS repo activity snapshots???
-
-Update the GitHub repo URL at the end of the talk
 
 
 
@@ -31,6 +34,7 @@ Dr. Strangelove Quotes
 In the beginning, shortly after the bomber captain has received and confirmed orders, he gives a short inspirational speech... that could be interesting to cast in a different light: as a dev bringing static typing back to their team, leading the team to victory!
 
 In the middle of the movie, the President asks "Then you mean that it is possible for them to have built such a thing?" to which Dr. Strangelove replies: "Mr. President, the technology required is easily within the means of even the smallest nuclear power. It requires only the will to do so."
+
 
 
 
