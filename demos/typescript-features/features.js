@@ -1,6 +1,4 @@
-"use strict";
 // Features
-exports.__esModule = true;
 // Static Typing
 // function add(number1, number2) {
 //   return number1 + number2;
@@ -62,10 +60,9 @@ exports.__esModule = true;
 //   }
 // }
 // Modules
-function publicFunction() {
-    console.log("I'm callable from outside of the module!");
-}
-exports.publicFunction = publicFunction;
-function privateFunction() {
-    console.log("I'm not callable outside of the module!");
-}
+// export function publicFunction() {
+//   console.log("I'm callable from outside of the module!");
+// }
+// function privateFunction() {
+//   console.log("I'm not callable outside of the module!");
+// }

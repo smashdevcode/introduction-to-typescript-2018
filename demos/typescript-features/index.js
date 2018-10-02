@@ -1,4 +1,5 @@
 // // Example #1: Variables
+// // Note: Enabling the "noImplicitAny" compiler option improves type inference
 // let x;
 // x = 'asdf';
 // x = 1;
